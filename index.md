@@ -14,7 +14,7 @@ Friday 9:30-11 and 1:30-3:30 JCC 502
 
 ## Pre-workshop tasks
 
-It will be helpful if you can complete tasks A and B below before Tuesday. But if you can't or you run into trouble, don't worry - we can also work through these steps together. 
+It will be helpful if you can complete tasks A and B below before Tuesday. But if you can't or you run into trouble, don't worry - we can also work through these steps together.
 
 ### Preworkshop task A: Git setup
 
@@ -24,7 +24,11 @@ It will be helpful if you can complete tasks A and B below before Tuesday. But i
 
 ### Preworkshop task B: Installing miniconda and a text editor:
 
-Follow **steps 1, 2 and 7** (you can skip steps 3-6 for now- we'll come back to them) in these [setup instructions](https://karinknudson.com/python_setup.pdf). Again, if you have trouble or the instructions don't make sense, don't worry at all. We'll troubleshoot together in class.
+Follow **steps 1, 2 and 7** (you can skip steps 3-6 for now- we'll come back to them) in these [setup instructions](https://karinknudson.com/python_setup.pdf). Again, if you have trouble or the instructions don't make sense, don't worry at all. We'll troubleshoot together in class. Note: if you already have miniconda or Anaconda and a text editor, you're all set.
+
+### Preworkshop task C (optional): Python basics:
+
+If you've never used Python before, check out the [Python basics notebook](https://colab.research.google.com/drive/1-xnnJtSNYMwsizsR0q2Wc8Ys_jNt6srR). It is a Google collab notebook, so you will be able to run the code and see the output. You can make changes, but you won't be able to save them unless you make a copy of the notebook.
 
 ## Outline of the week
 
