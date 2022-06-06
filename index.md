@@ -54,3 +54,17 @@ Resources:
 - [Pandas tutorial from W3Schools](https://www.w3schools.com/python/pandas/default.asp)
 - [Command Line Interface Intro](https://www.w3schools.com/whatis/whatis_cli.asp)
 - [Introductory Python Tutorial from W3Schools](https://www.w3schools.com/python/python_variables.asp)
+
+### Git and GitHub
+
+[Git and GitHub tutorial](https://karink520.github.io/git-and-github-intro/git_workshop.html)
+[Git and GitHub slides](https://karink520.github.io/git-and-github-intro/git_workshop_slides.pdf)
+
+Resources:
+- [Git workflow concise explainer](https://karinknudson.com/git_workflow.html)
+- Additional resources are at the bottom of the [Git and GitHub tutorial](https://karink520.github.io/git-and-github-intro/git_workshop.html).
+
+Additional Git and GitHub activities if you have existing experience:
+[A browser game to practice branching](https://learngitbranching.js.org/)
+Try making yourself an academic website using GitHub pages
+
