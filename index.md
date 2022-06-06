@@ -14,7 +14,7 @@ It will be helpful if you can complete the tasks below before day 1. But if you 
 
 ### Preworkshop task B: Installing miniconda and a text editor:
 
-Follow steps 1, 2 and 7 (you can skip steps 3-6 for now- we'll come back to them) in these [setup instructions](https://karinknudson.com/python_setup.pdf). Again, if you have trouble or the instructions don't make sense, don't worry at all. We'll troubleshoot together in class.
+Follow **steps 1, 2 and 7** (you can skip steps 3-6 for now- we'll come back to them) in these [setup instructions](https://karinknudson.com/python_setup.pdf). Again, if you have trouble or the instructions don't make sense, don't worry at all. We'll troubleshoot together in class.
 
 ## Outline of the week
 
