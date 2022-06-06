@@ -21,4 +21,4 @@ Follow **steps 1, 2 and 7** (you can skip steps 3-6 for now- we'll come back to 
 - Day 1 (Tuesday) - Python setup, cleaning and manipulating dataframes, Git and Github
 - Day 2 (Wednesday) - Data visualization
 - Day 3 (Thursday) - Machine learning
-- Day 4 (Friday) - Machine learning
+- Day 4 (Friday) - Machine learning, writing robust code with tests
