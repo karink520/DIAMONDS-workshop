@@ -5,8 +5,11 @@ Welcome! The goal of this first week is to give an introduction to some useful s
 ## Schedule
 
 Tuesday 10-12 and 1-3, JCC 502
+
 Wednesday 10-12 and 1-3 JCC 502
+
 Thursday 10-12 and 1-3 JCC 502
+
 Friday 9:30-11 and 1:30-3:30 JCC 502
 
 ## Pre-workshop tasks
