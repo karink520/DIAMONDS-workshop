@@ -9,7 +9,7 @@ It will be helpful if you can complete the tasks below before day 1. But if you 
 ### Preworkshop task A: Git setup
 
 1. If you have never used the terminal / command prompt before, go through this [introductory tutorial](https://tutorial.djangogirls.org/en/intro_to_command_line/). The commands you will need to know for this course are `ls` (for Mac and Linux users), `dir` (for Windows users), and `cd` (for everyone). (15 min)
-2. Install Git, following these [instructions]([install_git.md](https://karink520.github.io/git-and-github-intro/install_git.html). (10 min)
+2. Install Git, following these [instructions](https://karink520.github.io/git-and-github-intro/install_git.html). (10 min)
 3. Create an account on [GitHub](https://github.com). (5 min)
 
 ### Preworkshop task B: Installing miniconda and a text editor:
