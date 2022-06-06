@@ -1,4 +1,4 @@
-## DIAMONDS Start of Summer Workshop
+
 
 Welcome! The goal of this first week is to give an introduction to some useful skills and concepts in data science, and leave you with some resources to learn more. Some things might be to totally new, while others might be familiar to you already.
 
