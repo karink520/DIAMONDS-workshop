@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+## DIAMONDS Start of Summer Workshop
 
-You can use the [editor on GitHub](https://github.com/karink520/DIAMONDS-workshop/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Welcome! The goal of this first week is to give an introduction to some useful skills and concepts in data science, and leave you with some resources to learn more. Some things might be to totally new, while others might be familiar to you already.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Pre-workshop tasks
 
-### Markdown
+It will be helpful if you can complete the tasks below before day 1. But if you can't or you run into trouble, don't worry - we can also work through these steps together. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Preworkshop task A: Git setup
 
-```markdown
-Syntax highlighted code block
+1. If you have never used the terminal / command prompt before, go through this [introductory tutorial](https://tutorial.djangogirls.org/en/intro_to_command_line/). The commands you will need to know for this course are `ls` (for Mac and Linux users), `dir` (for Windows users), and `cd` (for everyone). (15 min)
+2. Install Git, following these [instructions]([install_git.md](https://karink520.github.io/git-and-github-intro/install_git.html). (10 min)
+3. Create an account on [GitHub](https://github.com). (5 min)
 
-# Header 1
-## Header 2
-### Header 3
+### Preworkshop task B: Installing miniconda and a text editor:
 
-- Bulleted
-- List
+Follow steps 1, 2 and 7 (you can skip steps 3-6 for now- we'll come back to them) in these [setup instructions](https://karinknudson.com/python_setup.pdf). Again, if you have trouble or the instructions don't make sense, don't worry at all. We'll troubleshoot together in class.
 
-1. Numbered
-2. List
+## Outline of the week
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/karink520/DIAMONDS-workshop/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- Day 1 (Tuesday) - Python setup, cleaning and manipulating dataframes, Git and Github
+- Day 2 (Wednesday) - Data visualization
+- Day 3 (Thursday) - Machine learning
+- Day 4 (Friday) - Machine learning
