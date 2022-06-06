@@ -2,9 +2,16 @@
 
 Welcome! The goal of this first week is to give an introduction to some useful skills and concepts in data science, and leave you with some resources to learn more. Some things might be to totally new, while others might be familiar to you already.
 
+## Schedule
+
+Tuesday 10-12 and 1-3, JCC 502
+Wednesday 10-12 and 1-3 JCC 502
+Thursday 10-12 and 1-3 JCC 502
+Friday 9:30-11 and 1:30-3:30 JCC 502
+
 ## Pre-workshop tasks
 
-It will be helpful if you can complete the tasks below before day 1. But if you can't or you run into trouble, don't worry - we can also work through these steps together. 
+It will be helpful if you can complete tasks A and B below before Tuesday. But if you can't or you run into trouble, don't worry - we can also work through these steps together. 
 
 ### Preworkshop task A: Git setup
 
