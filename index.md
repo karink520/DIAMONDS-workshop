@@ -68,3 +68,6 @@ Additional Git and GitHub activities if you have existing experience:
 - [A browser game to practice branching](https://learngitbranching.js.org/)
 - Try making yourself an academic website using GitHub pages
 
+### HW due Wednesday:
+- Practice with this [Exercise: Exploratory Data Analysis with Python](https://colab.research.google.com/drive/1CAP_k6HF88O-19wngS_5x2KN7Sfiwypo)
+- Make a pull request to fix an error in https://github.com/karink520/TuftsGitHubSampleToUpdate
