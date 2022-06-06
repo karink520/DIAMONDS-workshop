@@ -45,12 +45,12 @@ Notebooks:
 
 - [Introduction to Python Basics](https://colab.research.google.com/drive/1-xnnJtSNYMwsizsR0q2Wc8Ys_jNt6srR)
 - [Introduction to Pandas DataFrames](https://colab.research.google.com/drive/1LoMojpmzeu8dxX6Uc6Wt9ky-MYy0ttq0)
-- [Data Preparation with Python and Pandas] (https://colab.research.google.com/drive/1wWRIlHSSAqgX0HWf4dF_kRZ5YLYHtdbf)
+- [Data Preparation with Python and Pandas](https://colab.research.google.com/drive/1wWRIlHSSAqgX0HWf4dF_kRZ5YLYHtdbf)
 
 Resources:
 
-- [Pandas cheatsheet 1] (https://drive.google.com/file/d/1UHK8wtWbADvHKXFC937IS6MTnlSZC_zB/view)
-- [Pandas cheatsheet 2] (https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
-- [Pandas tutorial from W3Schools] https://www.w3schools.com/python/pandas/default.asp
-- [Command Line Interface Intro] (https://www.w3schools.com/whatis/whatis_cli.asp)
-- [Introductory Python Tutorial from W3Schools] (https://www.w3schools.com/python/python_variables.asp)
+- [Pandas cheatsheet 1](https://drive.google.com/file/d/1UHK8wtWbADvHKXFC937IS6MTnlSZC_zB/view)
+- [Pandas cheatsheet 2](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
+- [Pandas tutorial from W3Schools](https://www.w3schools.com/python/pandas/default.asp)
+- [Command Line Interface Intro](https://www.w3schools.com/whatis/whatis_cli.asp)
+- [Introductory Python Tutorial from W3Schools](https://www.w3schools.com/python/python_variables.asp)
