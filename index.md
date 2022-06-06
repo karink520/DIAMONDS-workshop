@@ -57,8 +57,8 @@ Resources:
 
 ### Git and GitHub
 
-[Git and GitHub tutorial](https://karink520.github.io/git-and-github-intro/git_workshop.html)
-[Git and GitHub slides](https://karink520.github.io/git-and-github-intro/git_workshop_slides.pdf)
+- [Git and GitHub tutorial](https://karink520.github.io/git-and-github-intro/git_workshop.html)
+- [Git and GitHub slides](https://karink520.github.io/git-and-github-intro/git_workshop_slides.pdf)
 
 Resources:
 - [Git workflow concise explainer](https://karinknudson.com/git_workflow.html)
