@@ -45,7 +45,7 @@ Notebooks:
 
 - [Introduction to Python Basics](https://colab.research.google.com/drive/1-xnnJtSNYMwsizsR0q2Wc8Ys_jNt6srR)
 - [Introduction to Pandas DataFrames](https://colab.research.google.com/drive/1LoMojpmzeu8dxX6Uc6Wt9ky-MYy0ttq0)
-- [Data Preparation with Python and Pandas](https://colab.research.google.com/drive/1wWRIlHSSAqgX0HWf4dF_kRZ5YLYHtdbf)
+- [Data Preparation with Python and Pandas](https://colab.research.google.com/drive/1YjYPxfbRPBlLT8w5wHpsDY2667EYeU4U)
 
 Resources:
 
@@ -65,6 +65,6 @@ Resources:
 - Additional resources are at the bottom of the [Git and GitHub tutorial](https://karink520.github.io/git-and-github-intro/git_workshop.html).
 
 Additional Git and GitHub activities if you have existing experience:
-[A browser game to practice branching](https://learngitbranching.js.org/)
-Try making yourself an academic website using GitHub pages
+- [A browser game to practice branching](https://learngitbranching.js.org/)
+- Try making yourself an academic website using GitHub pages
 
