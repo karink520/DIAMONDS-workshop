@@ -28,7 +28,7 @@ Follow **steps 1, 2 and 7** (you can skip steps 3-6 for now- we'll come back to 
 
 ### Preworkshop task C (optional): Python basics:
 
-If you've never used Python before, check out the [Python basics notebook](https://colab.research.google.com/drive/1-xnnJtSNYMwsizsR0q2Wc8Ys_jNt6srR). It is a Google collab notebook, so you will be able to run the code and see the output. You can make changes, but you won't be able to save them unless you make a copy of the notebook.
+If you've never used Python before, check out the [Python basics notebook](https://colab.research.google.com/drive/1-xnnJtSNYMwsizsR0q2Wc8Ys_jNt6srR). It is a Google collab notebook, so you will be able to run the code and see the output. Your task here is just to explore, see what you notice, and think about what questions you have. You can make changes to the code, but you won't be able to save them unless you make your own copy of the notebook (with the "Copy to Drive" button.
 
 ## Outline of the week
 
