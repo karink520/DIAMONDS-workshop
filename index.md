@@ -74,3 +74,11 @@ Additional Git and GitHub activities if you have significant existing experience
 ### HW due Wednesday:
 - Practice with this [Exercise: Exploratory Data Analysis with Python](https://colab.research.google.com/drive/1CAP_k6HF88O-19wngS_5x2KN7Sfiwypo)
 - Fork and make a pull request to fix an error in https://github.com/karink520/TuftsGitHubSampleToUpdate You can follow the instructions in part VI of the [Git and GitHub tutorial](https://karink520.github.io/git-and-github-intro/git_workshop.html).
+
+### Data visualization
+
+Notebooks:
+- [Classic charts with Matplotlib](https://colab.research.google.com/drive/1BymAOKBf1arAYSLvpytrT0GetZK0zyLu)
+
+Resources:
+- [Fundamentals of Data Visualization, by Claus Wilke](https://clauswilke.com/dataviz/) An awesome book on the principles of making your data visualizations good and effective, with tons of examples. Chapter 5 is a "Directory of Data Visualizations" that's a nice resource for when you need ideas for the kinds of visualizations you can make.
