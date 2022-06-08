@@ -72,7 +72,7 @@ Additional Git and GitHub activities if you have significant existing experience
 - Try making yourself an academic website using GitHub pages
 
 ### HW due Wednesday:
-- Practice with this [Exercise: Exploratory Data Analysis with Python](https://colab.research.google.com/drive/1CAP_k6HF88O-19wngS_5x2KN7Sfiwypo)
+- Practice with this [Exercise: Exploratory Data Analysis with Python](https://colab.research.google.com/drive/1CAP_k6HF88O-19wngS_5x2KN7Sfiwypo). Here are [sample solutions](https://colab.research.google.com/drive/1duLnyhAwB-THIKNzXDNEsGhHILtZ2KbP#scrollTo=2WUdwbKcvTpG)
 - Clone and follow instructions on the following [repo](https://github.com/merterden98/intros)
 
 ### Data visualization
@@ -82,3 +82,6 @@ Notebooks:
 
 Resources:
 - [Fundamentals of Data Visualization, by Claus Wilke](https://clauswilke.com/dataviz/) An awesome book on the principles of making your data visualizations good and effective, with tons of examples. Chapter 5 is a "Directory of Data Visualizations" that's a nice resource for when you need ideas for the kinds of visualizations you can make.
+
+HW/additional practice:
+- [Exercise: Intro to Plotting with Python](https://colab.research.google.com/drive/14WX9amWra-ChZj_PO6J37zrFc_sDRQ0J?usp=sharing)
