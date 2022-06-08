@@ -8,6 +8,7 @@ penguins_df = pd.read_csv("penguins.csv")
 
 # Use streamlit to display some text
 st.write("This is an example streamlit app using the Palmer penguins dataset from Allison Horst")
+st.write("https://allisonhorst.github.io/palmerpenguins/")
 
 # Set up the radio buttons in two columns
 col1, col2 = st.columns(2)
