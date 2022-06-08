@@ -83,9 +83,9 @@ Notebooks:
 Resources:
 - [Fundamentals of Data Visualization, by Claus Wilke](https://clauswilke.com/dataviz/) An awesome book on the principles of making your data visualizations good and effective, with tons of examples. Chapter 5 is a "Directory of Data Visualizations" that's a nice resource for when you need ideas for the kinds of visualizations you can make.
 - [Seaborn example gallery](https://seaborn.pydata.org/examples/index.html)
-- [Streamlit Example](streamlit_example.py)
+- [Streamlit Example](streamlit_example.py) Code for the streamlit demo from class 
 - [Streamlit.io](https://streamlit.io/) A tool for making interactive dashboards
 
 HW/additional practice:
 - [Exercise: Intro to Plotting with Python](https://colab.research.google.com/drive/14WX9amWra-ChZj_PO6J37zrFc_sDRQ0J?usp=sharing)
-- Try making a basic Streamlit app, and share with me what you make!
+- If you like, try making a basic Streamlit app. For significantly more information than we had in our (very!) brief demo, check out the [documentation](https://docs.streamlit.io/library/get-started/main-concepts)
