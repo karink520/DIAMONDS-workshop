@@ -6,11 +6,11 @@ Welcome! The goal of this first week is to give an introduction to some useful s
 
 Tuesday 10-12 and 1-3, JCC 502
 
-Wednesday 10-12 and 1-3 JCC 502
+Wednesday 10-12 and 1-2:30 JCC 502
 
-Thursday 10-12 and 1-3 JCC 502
+Thursday 10-12 and 1-2:30 JCC 502
 
-Friday 9:30-11 and 1:30-3:30 JCC 502
+Friday 9:30-11 and 1:30-3 JCC 502
 
 ## Pre-workshop tasks
 
@@ -24,7 +24,7 @@ It will be helpful if you can complete tasks A and B below before Tuesday. But i
 
 ### Preworkshop task B: Installing miniconda and a text editor:
 
-Follow **steps 1, 2 and 7** (you can skip steps 3-6 for now- we'll come back to them) in these [setup instructions](https://karinknudson.com/python_setup.pdf). Again, if you have trouble or the instructions don't make sense, don't worry at all. We'll troubleshoot together in class. Note: if you already have miniconda or Anaconda and a text editor, you're all set.
+Follow **steps 1, 2 and 7** (you can skip steps 3-6 for now- we'll come back to them) in these [setup instructions](https://karinknudson.com/python_setup.pdf). Again, if you have trouble or the instructions don't make sense, don't worry at all. We'll troubleshoot together in class. Note: if you already have a) miniconda or Anaconda and b) a text editor that you like (Visual Studio code, Atom, and Sublime are all popular text editors), you're all set.
 
 ### Preworkshop task C (optional): Python basics:
 
