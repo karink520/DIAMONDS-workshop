@@ -89,3 +89,13 @@ Resources:
 HW/additional practice:
 - [Exercise: Intro to Plotting with Python](https://colab.research.google.com/drive/14WX9amWra-ChZj_PO6J37zrFc_sDRQ0J?usp=sharing)
 - If you like, try making a basic Streamlit app. For significantly more information than we had in our (very!) brief demo, check out the [documentation](https://docs.streamlit.io/library/get-started/main-concepts)
+
+### Machine Learning Introduction
+
+Notebooks:
+- [Intro to Classification](https://colab.research.google.com/drive/1ZV0PdqZYhwZTX3B2GI3U38phlavMxJne#scrollTo=WE9k86L-r6tv)
+
+Resources:
+- [An Introduction to Statistical Learning](https://www.statlearning.com/) A book that gives an excellent introduction to machine learning. Note: A related book that goes a bit more in depth in some places and assumes more math prerequisite is *Elements of Statistical Learning*. Christopher Bishop's *Pattern Matching and Machine Learning* is another one of my all-time favorite machine learning books.)
+- [Scikit Learn tutorial](https://inria.github.io/scikit-learn-mooc/index.html) I haven't looked through all of this yet, but it looks like a nice course.
+- For an introduction to neural networks and deep learning, I think Andrew Ng's courses on Coursera are nice (the audit option is free)
