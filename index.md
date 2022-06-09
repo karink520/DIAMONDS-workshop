@@ -94,6 +94,8 @@ HW/additional practice:
 
 Notebooks:
 - [Intro to Classification](https://colab.research.google.com/drive/1ZV0PdqZYhwZTX3B2GI3U38phlavMxJne#scrollTo=WE9k86L-r6tv)
+- [Intro to Classification, Regression Clustering with SciKitLearn](https://colab.research.google.com/drive/1DgGR6lTZ_V3gfAQZf29b1K1k2WJXQpge)
+- [Exercise: Intro to Classification, Regression, Clustering with SciKitLearn](https://colab.research.google.com/drive/18yqgvYmSoe6RKHjf_B4Sgb-J0CL4UwUX?usp=sharing)
 
 Resources:
 - [An Introduction to Statistical Learning](https://www.statlearning.com/) A book that gives an excellent introduction to machine learning. Note: A related book that goes a bit more in depth in some places and assumes more math prerequisite is *Elements of Statistical Learning*. Christopher Bishop's *Pattern Matching and Machine Learning* is another one of my all-time favorite machine learning books.)
