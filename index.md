@@ -98,6 +98,7 @@ Notebooks:
 - [Exercise: Intro to Classification, Regression, Clustering with SciKitLearn](https://colab.research.google.com/drive/18yqgvYmSoe6RKHjf_B4Sgb-J0CL4UwUX?usp=sharing)
 
 Resources:
+- [Intro slides](https://docs.google.com/presentation/d/1p2O5dcB8nK-H2BQN-0Xjn5TWTqxacOq64HPfUsG8MlY/edit#slide=id.g11e0ab7bc9c_0_86) from the start of today's class
 - [An Introduction to Statistical Learning](https://www.statlearning.com/) A book that gives an excellent introduction to machine learning. Note: A related book that goes a bit more in depth in some places and assumes more math prerequisite is *Elements of Statistical Learning*. Christopher Bishop's *Pattern Matching and Machine Learning* is another one of my all-time favorite machine learning books.)
 - [Scikit Learn tutorial](https://inria.github.io/scikit-learn-mooc/index.html) I haven't looked through all of this yet, but it looks like a nice course.
 - For an introduction to neural networks and deep learning, I think Andrew Ng's courses on Coursera are nice (the audit option is free)
