@@ -112,4 +112,4 @@ HW for Friday:
 
 ### Tufts cluster access
 
-To request access to the Tufts cluster, fill out the form at https://access.tufts.edu/research-cluster-account
+To request access to the Tufts cluster, fill out the form [here](https://access.tufts.edu/research-cluster-account).
