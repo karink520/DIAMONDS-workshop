@@ -103,6 +103,7 @@ Resources:
 - [An Introduction to Statistical Learning](https://www.statlearning.com/) A book that gives an excellent introduction to machine learning. Note: A related book that goes a bit more in depth in some places and assumes more math prerequisite is *Elements of Statistical Learning*. Christopher Bishop's *Pattern Matching and Machine Learning* is another one of my all-time favorite machine learning books.)
 - [Scikit Learn tutorial](https://inria.github.io/scikit-learn-mooc/index.html) I haven't looked through all of this yet, but it looks like a good introductory resource.
 - For an introduction to neural networks and deep learning, I think Andrew Ng's courses on Coursera are nice (the audit option is free)
+- [A video introduction to Principle Component Analysis (PCA)](https://www.youtube.com/watch?v=FgakZw6K1QQ)
 
 HW for Friday:
 - Glance at some of the resources above. What are some areas of machine learning you'd like to learn more about this summer? What are some resources you could use to do so?
