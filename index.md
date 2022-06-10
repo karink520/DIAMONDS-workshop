@@ -113,3 +113,9 @@ HW for Friday:
 ### Tufts cluster access
 
 To request access to the Tufts cluster, fill out the form [here](https://access.tufts.edu/research-cluster-account).
+
+### Documentation and Testing
+
+Here's a link to [example numpy style docstrings](https://sphinxcontrib-napoleon.readthedocs.io/en/latest/example_numpy.html) for documenting your code. Including thorough documenation helps both collaborators AND your future self in using your code. 
+
+Here's a [guide](https://karinknudson.com/project_setup.html) that gives one way to set up a project with tests and linters that run automatically when you push to GitHub or make a pull request. (Even if you don't set things up to run automatically with Github actions, you might find some of the tools here -- pylint for linting, black for formatting, pytest for tests -- useful on their own.) It also shows how to set up a requirements file, which is useful if you're distributing your code as a package and and want to make sure users have all the right dependencies.
