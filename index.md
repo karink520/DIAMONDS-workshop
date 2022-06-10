@@ -104,6 +104,7 @@ Resources:
 - [Scikit Learn tutorial](https://inria.github.io/scikit-learn-mooc/index.html) I haven't looked through all of this yet, but it looks like a good introductory resource.
 - For an introduction to neural networks and deep learning, I think Andrew Ng's courses on Coursera are nice (the audit option is free)
 - [A video introduction to Principle Component Analysis (PCA)](https://www.youtube.com/watch?v=FgakZw6K1QQ)
+- [Friday afternoon tSNE/UMAP exercise](https://github.com/merterden98/intros/blob/main/LDE.md)
 
 HW for Friday:
 - Glance at some of the resources above. What are some areas of machine learning you'd like to learn more about this summer? What are some resources you could use to do so?
