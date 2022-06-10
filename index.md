@@ -96,6 +96,7 @@ Notebooks:
 - [Intro to Classification](https://colab.research.google.com/drive/1ZV0PdqZYhwZTX3B2GI3U38phlavMxJne#scrollTo=WE9k86L-r6tv)
 - [Intro to Classification, Regression Clustering with SciKitLearn](https://colab.research.google.com/drive/1DgGR6lTZ_V3gfAQZf29b1K1k2WJXQpge)
 - [Exercise: Intro to Classification, Regression, Clustering with SciKitLearn](https://colab.research.google.com/drive/18yqgvYmSoe6RKHjf_B4Sgb-J0CL4UwUX?usp=sharing)
+- [Regression practice activity](https://colab.research.google.com/drive/1coaQICnO6ghV88HGZ_-_-M7GZJBzJCcv) Activity for Friday morning
 
 Resources:
 - [Intro slides](https://docs.google.com/presentation/d/1p2O5dcB8nK-H2BQN-0Xjn5TWTqxacOq64HPfUsG8MlY/edit#slide=id.g11e0ab7bc9c_0_86) from the start of today's class
