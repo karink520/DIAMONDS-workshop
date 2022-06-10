@@ -109,3 +109,7 @@ Resources:
 HW for Friday:
 - Glance at some of the resources above. What are some areas of machine learning you'd like to learn more about this summer? What are some resources you could use to do so?
 - In class we looked at several different classification approaches, but only one approach each for clustering and regression. Identify another regression approach you'd like to try out (you can look around in the resources above if you need ideas, or choose something from the scikitlearn flow chart that's in the slides), and run it on either the penguins dataset or the dataset of your choice. Do the same for another clustering method.
+
+### Tufts cluster access
+
+To request access to the Tufts cluster, fill out the form at https://access.tufts.edu/research-cluster-account
